@@ -1,0 +1,47 @@
+body {
+    background-image: url(../shattered.png)
+}
+
+.main {
+    background-color: white;
+    /* width: 95%; */
+    position: relative;
+    right: -0%;
+    top:30%;
+}
+
+h1 {
+    border-bottom: 1px solid lightgray;
+    border-right: none;
+    border-left: none;
+    border-right: none;
+}
+footer {
+    position: fixed;
+    right: 0%;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+form {
+    position: relative;
+    right: -20%;
+    text-align: center;
+}
+
+button {
+    position: relative;
+    left: -17%;
+    margin-bottom: 10px;
+}
+
+textarea {
+    position: relative;
+    left: 0%;
+}
