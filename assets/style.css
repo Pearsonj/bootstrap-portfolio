@@ -3,8 +3,17 @@ body {
     background-image: url(../shattered.png)
 }
 
+.container {
+    position: relative;
+    right: -15px;
+}
+
+.maininfo {
+    position: relative;
+    right: 27px;
+}
+
 .main {
-    
     background-color: white;
     /* width: 95%; */
     position: relative;
@@ -18,7 +27,8 @@ body {
     position: relative;
     right: -37px;
     top:30%;
-    padding: 8px 0 20px 0;
+    padding-bottom: 40px;
+    
     margin-top: 30px;
 }
 
@@ -53,6 +63,18 @@ button {
     margin-bottom: 10px;
 }
 
-textarea {
+.navvvv {
+    position: relative;
+    right: -83%;
     
+}
+
+.navbar-brand {
+    position: relative;
+    left: 23px;
+}
+
+.contact {
+    position: relative;
+    right: 45px;
 }
